@@ -12,5 +12,8 @@
     "linked-list"
   ],
   "author": "AjMor01",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
 }
